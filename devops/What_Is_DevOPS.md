@@ -36,9 +36,9 @@ Also, DevOPS brings,
 
 DevOPS always discuss such topics,
 
-    * Infrastructure Automation – create your systems, OS configs, and app deployments as code.
-    * Continuous Delivery – build, test, deploy your apps in a fast and automated manner.
-    * Site Reliability Engineering – operate your systems; monitoring and orchestration, sure, but also designing for operability in the first place.
+* Infrastructure Automation – create your systems, OS configs, and app deployments as code.
+* Continuous Delivery – build, test, deploy your apps in a fast and automated manner.
+* Site Reliability Engineering – operate your systems; monitoring and orchestration, sure, but also designing for operability in the first place.
 
 This is the first time I tried to answer some questions always asked in the past years.
 I think I will start a topic on this to show more understanding about DevOPS then.
