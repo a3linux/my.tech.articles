@@ -8,12 +8,11 @@ As I am working with **Amazon Web Service** for a long time with my DevOPS caree
 
 This is the first page said about DevOPS on AWS DevOPS to answer "What is DevOPS?",
 
-*DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
-What is DevOps?
+*DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.*
 
 ![DevOPS Model](https://d1.awsstatic.com/product-marketing/DevOps/DevOps_feedback-diagram.ff668bfc299abada00b2dcbdc9ce2389bd3dce3f.png)
 
-Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, these two teams are merged into a single team where the engineers work across the entire application lifecycle, from development and test to deployment to operations, and develop a range of skills not limited to a single function. Quality assurance and security teams may also become more tightly integrated with development and operations and throughout the application lifecycle.*
+*Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, these two teams are merged into a single team where the engineers work across the entire application lifecycle, from development and test to deployment to operations, and develop a range of skills not limited to a single function. Quality assurance and security teams may also become more tightly integrated with development and operations and throughout the application lifecycle.*
 
 Obviously, AWS guys think DevOPS is a *complex thing* combined with culture, practices and tools. This definition is not complete right or not, but I agree that DevOPS should be not only some tools, some ideas or some processes, in the first of all, it should be a team / organization culture. Second, it should come with processes, tools. DevOPS should be a term for a group of concepts introudced by the technology community.
 
@@ -25,23 +24,15 @@ DevOPS, *mind* or *theory* or *culture* first, then tools, technology and proced
 
 DevOPS might be starting from about more than 10 years ago, at the time I was working in eBay.com as automation operation engineer or tools engineer. The technique community required things like,
 
-        ```
-        a cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale*
-        ```
+***a cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale***
 
 In that old days, operation team and development team are totally separate teams. We perbit development guys touch our production at all. New service go live with certain period as release plan or something similar. In eBay.com, it is called *train* and roll out every two weeks.
 
 But DevOPS is something deifferent comparing above traditional model,
-
-    ```
-    DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.
-    ```
+***DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support***
 
 Also, DevOPS brings,
-
-    ```
-    DevOps is also characterized by operations staff making use many of the same techniques as developers for their systems work.
-    ```
+***DevOps is also characterized by operations staff making use many of the same techniques as developers for their systems work***
 
 DevOPS always discuss such topics,
 
